@@ -1,7 +1,7 @@
 require 'pry' 
 
 def nyc_pigeon_organizer(data)
-  data.each do |color_gender_lives, value|
+  data.map 
   binding.pry
   end
 end
